@@ -1,4 +1,5 @@
----
-title: Welcome to my blog
----
+# Pages Tutorial
 
+## Introduction
+
+Welcome, this is my blog for the pages tutorial.
